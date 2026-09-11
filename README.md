@@ -3,11 +3,11 @@
 Вихідний код зберігається в окремому закритому репозиторії. Тут публікуються
 інсталяційні пакети Windows, описи версій і підписані маніфести оновлень.
 
-## Тестова збірка 0.1.12
+## Тестова збірка 0.1.13
 
-[Завантажити Windows Setup EXE](https://github.com/morozyukvladislav-cell/nais-controller-releases/releases/download/v0.1.12/NAIS-Controller-0.1.12-Setup.exe)
+[Завантажити Windows Setup EXE](https://github.com/morozyukvladislav-cell/nais-controller-releases/releases/download/v0.1.13/NAIS-Controller-0.1.13-Setup.exe)
 
-[Зміни та межі готовності](https://github.com/morozyukvladislav-cell/nais-controller-releases/releases/tag/v0.1.12)
+[Зміни та межі готовності](https://github.com/morozyukvladislav-cell/nais-controller-releases/releases/tag/v0.1.13)
 
 Це збірка для перевірки інтерфейсу, встановлення та оновлень. Повна робота
 всіх чотирьох реєстрів ще не завершена. Стабільного випуску поки немає.
